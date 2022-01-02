@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+*{
+  padding: 0;
+  max-resolution: 0;
+  box-sizing: border-box;
+}
+
+.main-ul{
+  display: flex;
+  flex-direction: column;
+  font-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.table{
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-collapse: collapse;
+  font-family: 'Quicksand', sans-serif;
+  overflow: hidden;
+  font-weight: bold;
+}
+
+.table thead th{
+  background-color: #009575;
+  color: #fff;
+  width: 20%;
+  text-align: left;
+}
+
+.table td,
+.table th{
+  padding: 10px 20px;
+}
+
+.table tbody tr:nth-of-type(even){
+  background: #eeeeee;
+}
+
+.table tbody tr:last-of-type{
+  border-bottom: 2px solid #009575 ;
+}

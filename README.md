@@ -1,4 +1,4 @@
-# frontend-24h
+# re-frontend-24h
 
 
 ## Practical Front-End Projects with Pure Javascript, and a bit of both CSS, and HTML

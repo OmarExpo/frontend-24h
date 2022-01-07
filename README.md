@@ -1,4 +1,4 @@
-# re-frontend-24h
+# frontend-24h
 
 ## Practical Front-End Projects with Pure Javascript plus Navigo Routing, and a bit of both CSS, and HTML
 

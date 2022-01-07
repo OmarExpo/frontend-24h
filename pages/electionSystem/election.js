@@ -6,7 +6,7 @@ const tableBody = document.querySelector('tbody');
 
 
 // Arguments
-const url = "http://localhost:9090/api/allElections";
+const url = "http://localhost:8080/api/allElections";
 
 const table = document.querySelector('table');
  

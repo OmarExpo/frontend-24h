@@ -6,6 +6,9 @@
   box-sizing: border-box;
 }
 
+body{
+  background-color:seashell;
+}
 .main-ul{
   display: flex;
   flex-direction: column;
